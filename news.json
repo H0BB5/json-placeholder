@@ -1,0 +1,504 @@
+{
+  "status": 200,
+  "numResults": 5,
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/markets/equities/24/04/38228298/market-turmoil-resumes-as-inflation-rises-more-than-expected-oil-prices-spike-gold-at-record-hig",
+      "authorsByline": "Piero Cingari",
+      "articleId": "8414e92dfdbf4e72a229d8ac307f7e93",
+      "clusterId": "b696f385b5a24464a8a5efa63e965c3f",
+      "source": {
+        "domain": "benzinga.com",
+        "paywall": false,
+        "location": null
+      },
+      "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Wall-street-sign-in-New-York_7.jpeg?width=1200&height=800&fit=crop",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-04-12T20:27:12+00:00",
+      "addDate": "2024-04-12T20:36:07.033706+00:00",
+      "refreshDate": "2024-04-12T20:36:07.033711+00:00",
+      "score": 1,
+      "title": "Market Turmoil Resumes As Inflation Rises More Than Expected, Oil Prices Spike, Gold At Record Highs: This Week In The Markets - Baker Hughes (NASDAQ:BKR), ARM Holdings (NASDAQ:ARM)",
+      "description": "Volatility surged as geopolitical tensions rose in the Middle East and inflation data defied estimates, delaying rate cuts and causing concern for stocks, mortgages and consumer sentiment.",
+      "content": "Volatility stormed back into the markets, shaking things up in a week where inflation defiantly outstripped estimates for the third straight month in March, leading investors to substantially slash th... [2509 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.benzinga.com/etfs/sector-etfs/24/04/38208088/will-mortgage-rates-pop-again-homebuyers-combat-an-affordability-crises",
+        "https://www.benzinga.com/markets/equities/24/04/38196175/knives-are-really-out-for-musk-jim-cramer-feels-wall-street-is-losing-confidence-in-teslas-ceo-l",
+        "https://www.benzinga.com/economics/macro-economic-events/24/04/38221695/consumer-sentiment-worsens-in-april-inflation-expectations-rise-further-stocks-fa",
+        "https://www.benzinga.com/markets/mutual-funds/24/04/38213342/cathie-wood-ark-invest-announce-stake-in-openai-heres-how-you-can-get-exposure-to-chatgpt-pa",
+        "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38186082/this-puts-the-fed-in-quite-a-tricky-position-7-economists-weigh-in-on-march-inflati",
+        "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38212196/inflation-upends-feds-plans-when-do-wall-street-analysts-expect-first-interest-rate",
+        "https://www.benzinga.com/markets/asia/24/04/38163078/ai-could-consume-25-of-us-power-by-2030-the-more-information-they-gather-the-more-power-it-takes-war"
+      ],
+      "labels": [],
+      "matchedAuthors": [{ "id": null, "name": "Piero Cingari" }],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        { "name": "Arm Holdings plc ARM CEO Rene Haas", "weight": 0.105286665 },
+        { "name": "ARM Holdings", "weight": 0.103590146 },
+        { "name": "Federal Reserve interest rate cuts", "weight": 0.09741701 },
+        { "name": "Federal Reserve rate cuts", "weight": 0.097268954 },
+        { "name": "Arm Holdings plc", "weight": 0.08689988 },
+        { "name": "X Holdings", "weight": 0.08238383 },
+        { "name": "vehicle price cuts", "weight": 0.08011958 },
+        { "name": "ARM", "weight": 0.07797659 },
+        { "name": "U.S. mortgage rates", "weight": 0.075239874 },
+        { "name": "rising inflation expectations", "weight": 0.07337419 }
+      ],
+      "topics": [
+        { "name": "Inflation" },
+        { "name": "Markets" },
+        { "name": "Oil & Gas" }
+      ],
+      "categories": [{ "name": "Finance" }],
+      "entities": [
+        { "data": "Baker Hughes", "type": "ORG", "mentions": 1 },
+        { "data": "NASDAQ", "type": "ORG", "mentions": 2 },
+        { "data": "ARM Holdings", "type": "ORG", "mentions": 5 },
+        { "data": "Federal Reserve", "type": "ORG", "mentions": 2 },
+        { "data": "Treasury", "type": "ORG", "mentions": 1 },
+        { "data": "the University of Michigan", "type": "ORG", "mentions": 1 },
+        { "data": "Tesla Inc.", "type": "ORG", "mentions": 3 },
+        { "data": "CNBC", "type": "ORG", "mentions": 1 },
+        { "data": "BKRBKR", "type": "ORG", "mentions": 1 },
+        { "data": "Ark Invest", "type": "ORG", "mentions": 3 },
+        { "data": "OpenAI", "type": "ORG", "mentions": 2 },
+        { "data": "SpaceX", "type": "ORG", "mentions": 1 },
+        { "data": "the Middle East", "type": "LOC", "mentions": 1 },
+        { "data": "Iranian", "type": "NORP", "mentions": 1 },
+        { "data": "Israeli", "type": "NORP", "mentions": 1 },
+        { "data": "Joe Biden", "type": "PERSON", "mentions": 1 },
+        { "data": "Elon Musk", "type": "PERSON", "mentions": 2 },
+        { "data": "Jim Cramer", "type": "PERSON", "mentions": 1 },
+        { "data": "Warren Buffett‘s", "type": "PERSON", "mentions": 1 },
+        { "data": "Cathie Wood‘s", "type": "PERSON", "mentions": 1 },
+        { "data": "Rene Haas", "type": "PERSON", "mentions": 1 },
+        { "data": "U.S.", "type": "GPE", "mentions": 3 }
+      ],
+      "companies": [
+        {
+          "id": "8287feff45d64b8185dbee81ac8b756e",
+          "name": "Arm Holdings",
+          "domains": ["arm.com"],
+          "symbols": []
+        },
+        {
+          "id": "69d0cae15a9448338b873e41c9efdf82",
+          "name": "Berkshire Hathaway Inc.",
+          "domains": ["berkshirehathaway.com"],
+          "symbols": ["BRH.DE", "BRK-A", "BRK-B", "BRYN.DE"]
+        },
+        {
+          "id": "b9fdef5032594aa6873ced25d8113398",
+          "name": "ARK Investment Management",
+          "domains": ["ark-invest.com"],
+          "symbols": []
+        },
+        {
+          "id": "6d688831f698495281098a1d24465e33",
+          "name": "OpenAI",
+          "domains": ["openai.com"],
+          "symbols": []
+        },
+        {
+          "id": "bf0507e3792a44188f7c646d60fb6b97",
+          "name": "Athi River Mining",
+          "domains": ["armafrica.com"],
+          "symbols": []
+        },
+        {
+          "id": "3d2434abb4f445d0826554480dd3b99f",
+          "name": "Baker Hughes Company",
+          "domains": ["bakerhughes.com"],
+          "symbols": ["0RR8.L", "BKR"]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.12587945,
+        "negative": 0.76697457,
+        "neutral": 0.10714594
+      },
+      "summary": "The week of volatility has seen volatility in the markets, with inflation exceeding expectations for the third consecutive month in March, leading investors to lower expectations for Federal Reserve interest rate cuts. Geopolitical tensions in the Middle East fueled a surge in commodities like oil and gold. Major banks surpassed forecasts despite slightly exceeding their forecasts. The CBOE Volatility Index, or VIX, spiked the most in over a year due to rising indications of an imminent Iranian attack on Israeli soil. The likelihood of a June rate cut dropped from 60% to 20%, and some Wall Street analysts now expect only one rate cut in December. The rise in mortgage rates has raised affordability concerns for homebuyers, exacerbating the housing market's challenges with high prices and low inventory. The confidence in Tesla Inc. CEO Elon Musk is also decreasing due to his focus on other ventures, while Warren Buffett's Berkshire Hathaway Inc. praised for its strong long-term performance. By 2030, artificial intelligence technologies could account for up to 25% of U.S. energy consumption, according to Arm Holdings CEO Rene Haas, highlighting the significant increase in electricity demand driven by advanced AI models.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "65c50067226b4a5aa00fa2e4472cbc9b",
+      "places": [],
+      "people": [
+        { "wikidataId": "Q6446228", "name": "Jim Cramer" },
+        { "wikidataId": "Q317521", "name": "Elon Musk" },
+        { "wikidataId": "Q6279", "name": "Joe Biden" }
+      ]
+    },
+    {
+      "url": "https://www.benzinga.com/news/24/04/38212374/investors-move-toward-gold",
+      "authorsByline": "The Gold Report",
+      "articleId": "5bf767741ebf40df999d168a7141fff9",
+      "clusterId": "4145c419a47d4b75b7023d121d337bd1",
+      "source": {
+        "domain": "benzinga.com",
+        "paywall": false,
+        "location": null
+      },
+      "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/04/12/jingming-pan-iysrkq5qq0q-unsplash.jpg?width=1200&height=800&fit=crop",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-04-12T16:53:26+00:00",
+      "addDate": "2024-04-12T17:04:10.355525+00:00",
+      "refreshDate": "2024-04-12T17:04:10.355528+00:00",
+      "score": 1,
+      "title": "Investors Move Toward Gold - Altius Minerals (OTC:ATUSF), Franco-Nevada (NYSE:FNV)",
+      "description": "Source: Adrian Day 04/10/2024 Global Analyst Adrian Day looks for signs that investors are finally turning to gold, and provides an update on developments at a couple of stocks on his list.",
+      "content": "Global Analyst Adrian Day looks for signs that investors are finally turning to gold, and provides an update on developments at a couple of stocks on his list.\n\nA month ago, we wrote about the drivers... [11042 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.streetwisereports.com/article/2024/04/10/investors-move-toward-gold.html?utm_medium=feed"
+      ],
+      "labels": [],
+      "matchedAuthors": [],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        { "name": "gold buying", "weight": 0.07743267 },
+        { "name": "higher gold prices", "weight": 0.07603764 },
+        { "name": "Gold", "weight": 0.07167393 },
+        { "name": "gold", "weight": 0.07167393 },
+        { "name": "high interest rates", "weight": 0.057499282 },
+        { "name": "last month", "weight": 0.05680942 },
+        { "name": "Altius Minerals Corp.", "weight": 0.056417823 },
+        { "name": "Gold Stocks", "weight": 0.054975055 },
+        { "name": "investor interest", "weight": 0.053756647 },
+        { "name": "gold buyers", "weight": 0.052204274 }
+      ],
+      "topics": [{ "name": "Markets" }],
+      "categories": [{ "name": "Finance" }],
+      "entities": [
+        { "data": "Altius Minerals", "type": "ORG", "mentions": 8 },
+        { "data": "OTC", "type": "ORG", "mentions": 1 },
+        { "data": "Franco-Nevada", "type": "ORG", "mentions": 7 },
+        { "data": "NYSE", "type": "ORG", "mentions": 1 },
+        { "data": "Federal Reserve", "type": "ORG", "mentions": 4 },
+        { "data": "Independent Speculator", "type": "ORG", "mentions": 1 },
+        { "data": "Microsoft", "type": "ORG", "mentions": 1 },
+        { "data": "Scottie Resources", "type": "ORG", "mentions": 1 },
+        { "data": "Newmont", "type": "ORG", "mentions": 1 },
+        { "data": "Newcrest", "type": "ORG", "mentions": 1 },
+        { "data": "Wheaton", "type": "ORG", "mentions": 1 },
+        { "data": "ATUSF", "type": "ORG", "mentions": 1 },
+        { "data": "the Alberta Court of Appeal", "type": "ORG", "mentions": 1 },
+        { "data": "Nestlé SA NSRGF", "type": "ORG", "mentions": 1 },
+        { "data": "Gladstone Investment Corp.", "type": "ORG", "mentions": 3 },
+        { "data": "GAIN", "type": "ORG", "mentions": 1 },
+        { "data": "Orogen Royalties Inc.", "type": "ORG", "mentions": 2 },
+        { "data": "OGNRF", "type": "ORG", "mentions": 1 },
+        { "data": "Streetwise Reports LLC", "type": "ORG", "mentions": 10 },
+        { "data": "Street Smart", "type": "ORG", "mentions": 1 },
+        { "data": "Global Strategic Management", "type": "ORG", "mentions": 2 },
+        { "data": "GSM", "type": "ORG", "mentions": 3 },
+        { "data": "Adrian Day's Global Analyst", "type": "ORG", "mentions": 1 },
+        { "data": "Adrian Day", "type": "PERSON", "mentions": 6 },
+        { "data": "Jerome Powell", "type": "PERSON", "mentions": 2 },
+        { "data": "China", "type": "GPE", "mentions": 1 },
+        { "data": "the Czech Republic", "type": "GPE", "mentions": 1 },
+        { "data": "Kazakhstan", "type": "GPE", "mentions": 1 },
+        { "data": "Qatar", "type": "GPE", "mentions": 1 },
+        { "data": "Turkey", "type": "GPE", "mentions": 1 },
+        { "data": "Mauritania", "type": "GPE", "mentions": 1 },
+        { "data": "Uzbekistan", "type": "GPE", "mentions": 1 },
+        { "data": "U.S.", "type": "GPE", "mentions": 1 },
+        { "data": "Colombia", "type": "GPE", "mentions": 1 },
+        { "data": "Genesee", "type": "GPE", "mentions": 2 },
+        { "data": "Alberta", "type": "GPE", "mentions": 1 },
+        { "data": "Annapolis", "type": "GPE", "mentions": 1 },
+        { "data": "MD", "type": "GPE", "mentions": 1 },
+        { "data": "Europe", "type": "LOC", "mentions": 2 },
+        { "data": "the Middle East", "type": "LOC", "mentions": 1 },
+        { "data": "Asia", "type": "LOC", "mentions": 1 },
+        { "data": "West", "type": "LOC", "mentions": 1 },
+        { "data": "the Golden Triangle", "type": "LOC", "mentions": 2 },
+        { "data": "British", "type": "NORP", "mentions": 1 }
+      ],
+      "companies": [
+        {
+          "id": "fcfd22415c8a45ed932965d39579065b",
+          "name": "Altius Minerals Corporation",
+          "domains": ["altiusminerals.com"],
+          "symbols": ["ALS.TO"]
+        },
+        {
+          "id": "6a459e604e634e46875d290714ffb53b",
+          "name": "Franco-Nevada Corporation",
+          "domains": ["franco-nevada.com"],
+          "symbols": ["FNV", "FNV.TO"]
+        },
+        {
+          "id": "4de51cf8472b4ce7a5aecdf52a1de4c0",
+          "name": "Microsoft Corporation",
+          "domains": ["microsoft.com"],
+          "symbols": ["4338.HK", "MSF.BR", "MSF.DE", "MSFT"]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.23600166,
+        "negative": 0.4474153,
+        "neutral": 0.31658307
+      },
+      "summary": "Global Analyst Adrian Day has highlighted signs that investors are beginning to turn towards gold, with a $150 increase in the past four weeks. Despite central bank buying continuing to drive the gold price, there are indications of a shift from institutional and retail investors that could significantly increase the value of the precious metal. Major buyers include China, which bought over 12 tonnes in February, the Czech Republic, Kazakhstan, Qatar, Turkey, and Mauritania. However, this represents a slowdown of the trend of the last two years. Data for gold ETF flows indicates a shift in the last few weeks, but it is too soon to say there has been a clear reversal. The article also notes that the economy is not as strong as it would appear, with consumer debt levels and unemployment figures at over 1.5 million.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "49c3b398d14249a7af5c7d1ae2c530e0",
+      "places": [],
+      "people": [{ "wikidataId": "Q6182718", "name": "Jerome Powell" }]
+    },
+    {
+      "url": "https://www.benzinga.com/markets/equities/24/04/38223912/us-energy-stocks-eye-9th-week-of-gains-as-iran-israel-tensions-escalate-oil-prices-spike-above-9",
+      "authorsByline": "Piero Cingari",
+      "articleId": "24544498c80f4605a356b93aaa8b7afb",
+      "clusterId": "d90a654527a742df8fe6eeb14c39125a",
+      "source": {
+        "domain": "benzinga.com",
+        "paywall": false,
+        "location": null
+      },
+      "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/oil-rising-chart-shutter_9.jpeg?width=1200&height=800&fit=crop",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-04-12T16:08:42+00:00",
+      "addDate": "2024-04-12T16:18:04.750013+00:00",
+      "refreshDate": "2024-04-12T16:18:04.750018+00:00",
+      "score": 1,
+      "title": "US Energy Stocks Eye 9th Week Of Gains As Iran-Israel Tensions Escalate: Oil Prices Spike Above $90 A Barrel - APA (NASDAQ:APA), ConocoPhillips (NYSE:COP)",
+      "description": "U.S. energy stocks rise for 9th straight week amid rising geopolitical tensions and oil prices, with top performers including OXY, FANG, and MRO.",
+      "content": "U.S. energy stocks, as tracked by the Energy Select Sector SPDR Fund XLE, could potentially notch their ninth straight positive week, marking the longest pace of weekly gains since May 2007.\n\nOil pric... [1846 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.benzinga.com/news/24/04/38217135/israel-prepares-for-possible-iranian-retaliation-within-48-hours-report",
+        "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38212196/inflation-upends-feds-plans-when-do-wall-street-analysts-expect-first-interest-rate"
+      ],
+      "labels": [],
+      "matchedAuthors": [{ "id": null, "name": "Piero Cingari" }],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        { "name": "Israel", "weight": 0.09653097 },
+        { "name": "Iran attack", "weight": 0.0903978 },
+        { "name": "positive territory", "weight": 0.08319521 },
+        { "name": "Israeli territory", "weight": 0.082672656 },
+        { "name": "Iran", "weight": 0.072686195 },
+        { "name": "Sky News Arabia", "weight": 0.069578566 },
+        { "name": "First Interest Rate Cut", "weight": 0.06947926 },
+        { "name": "U.S. energy stocks", "weight": 0.06789007 },
+        { "name": "Iran-Israel Tensions", "weight": 0.06744138 },
+        { "name": "weekly gains", "weight": 0.06553512 }
+      ],
+      "topics": [{ "name": "Oil & Gas" }, { "name": "Markets" }],
+      "categories": [{ "name": "Finance" }],
+      "entities": [
+        { "data": "US", "type": "GPE", "mentions": 4 },
+        { "data": "Iran", "type": "GPE", "mentions": 4 },
+        { "data": "Israel", "type": "GPE", "mentions": 5 },
+        { "data": "the United States", "type": "GPE", "mentions": 1 },
+        { "data": "APA", "type": "ORG", "mentions": 1 },
+        { "data": "NASDAQ", "type": "ORG", "mentions": 1 },
+        { "data": "ConocoPhillips", "type": "ORG", "mentions": 1 },
+        { "data": "NYSE", "type": "ORG", "mentions": 1 },
+        { "data": "The Times of Israel", "type": "ORG", "mentions": 2 },
+        { "data": "Sky News Arabia", "type": "ORG", "mentions": 1 },
+        { "data": "The White House", "type": "ORG", "mentions": 2 },
+        { "data": "Iranian", "type": "NORP", "mentions": 2 },
+        { "data": "Israeli", "type": "NORP", "mentions": 2 },
+        { "data": "Palestinian", "type": "NORP", "mentions": 1 },
+        { "data": "the next 48 hours", "type": "TIME", "mentions": 1 },
+        { "data": "the Middle East", "type": "LOC", "mentions": 1 },
+        { "data": "Brent", "type": "PRODUCT", "mentions": 1 }
+      ],
+      "companies": [
+        {
+          "id": "060748a01ba14f4f84428b31b6965c96",
+          "name": "APA Corporation",
+          "domains": ["apacorp.com"],
+          "symbols": ["0HGC.L", "APA"]
+        },
+        {
+          "id": "2fc8215b27ff48ec9227ea6ae39c5054",
+          "name": "ConocoPhillips",
+          "domains": ["conocophillips.com"],
+          "symbols": ["0QZA.L", "COP", "YCP.DE"]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.7616263,
+        "negative": 0.0892039,
+        "neutral": 0.14916976
+      },
+      "summary": "U.S. energy stocks, tracked by the Energy Select Sector SPDR Fund XLE, may see their ninth consecutive week of gains, marking the longest pace of weekly gains since May 2007. This comes amid rising tensions between Iran and Israel, with reports suggesting an Iranian assault on Israel could occur within the next 48 hours. The Israeli Minister of National Security has met with top officials to prepare for a potential strike. The White House confirmed that Iran's threats to Israel were \"real and credible,\" while the Foreign Office of the UK has warned its citizens against traveling to Israel and the occupied Palestinian territory due to the possibility of an attack from Iran. Oil prices have surged, with WTI light crude rising 2.8% to above $87 a barrel and Brent prices reaching the highest levels in seven months.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "186f3e1c0aa54b35b5c3568959f8be4f",
+      "places": [],
+      "people": []
+    },
+    {
+      "url": "https://www.benzinga.com/economics/macro-economic-events/24/04/38221695/consumer-sentiment-worsens-in-april-inflation-expectations-rise-further-stocks-fa",
+      "authorsByline": "Piero Cingari",
+      "articleId": "844e505bfb274f1a8861095992ac917f",
+      "clusterId": "37645cabfece443e8ef456a8300f8419",
+      "source": {
+        "domain": "benzinga.com",
+        "paywall": false,
+        "location": null
+      },
+      "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/04/12/consumers-shutter2.jpeg?width=1200&height=800&fit=crop",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-04-12T14:30:10+00:00",
+      "addDate": "2024-04-12T14:48:17.312757+00:00",
+      "refreshDate": "2024-04-12T14:48:17.312761+00:00",
+      "score": 1,
+      "title": "Consumer Sentiment Worsens In April, Inflation Expectations Rise Further: Stocks Fall, Gold Surges Above $2,400 - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR Gold Trust (ARCA:GLD)",
+      "description": "April US consumer confidence report shows sharp decline in morale and rise in inflation expectations. Stocks fall, gold and treasury yields rise.",
+      "content": "The latest April report on U.S. consumer confidence paints a bleak picture, showcasing a sharp decline in overall morale and a disturbing surge in inflation expectations among American consumers, acco... [2122 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38212196/inflation-upends-feds-plans-when-do-wall-street-analysts-expect-first-interest-rate",
+        "https://www.benzinga.com/topic/university-of-michigan-consumer-sentiment-index"
+      ],
+      "labels": [],
+      "matchedAuthors": [{ "id": null, "name": "Piero Cingari" }],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        { "name": "Invesco QQQ Trust", "weight": 0.11022732 },
+        { "name": "SPDR Gold Trust", "weight": 0.10032722 },
+        { "name": "consumer expectations", "weight": 0.09974283 },
+        { "name": "Inflation Expectations", "weight": 0.09463452 },
+        { "name": "inflation expectations", "weight": 0.09463452 },
+        { "name": "rising tensions", "weight": 0.08959532 },
+        { "name": "rising oil prices", "weight": 0.08789205 },
+        { "name": "First Interest Rate Cut", "weight": 0.08432808 },
+        { "name": "many consumers", "weight": 0.08352838 },
+        { "name": "Consumer Sentiment", "weight": 0.0828971 }
+      ],
+      "topics": [{ "name": "Markets" }, { "name": "Inflation" }],
+      "categories": [{ "name": "Finance" }],
+      "entities": [
+        { "data": "Invesco QQQ Trust", "type": "ORG", "mentions": 1 },
+        { "data": "NASDAQ", "type": "ORG", "mentions": 1 },
+        { "data": "ARCA", "type": "ORG", "mentions": 1 },
+        { "data": "the University of Michigan", "type": "ORG", "mentions": 2 },
+        { "data": "Surveys of Consumers", "type": "ORG", "mentions": 1 },
+        { "data": "Treasury", "type": "ORG", "mentions": 1 },
+        { "data": "U.S.", "type": "GPE", "mentions": 1 },
+        { "data": "American", "type": "NORP", "mentions": 1 },
+        { "data": "Joanne Hsu", "type": "PERSON", "mentions": 2 },
+        { "data": "the Middle East", "type": "LOC", "mentions": 1 }
+      ],
+      "companies": [
+        {
+          "id": "e0c3507ba8824a3a812cddcb2be470f3",
+          "name": "Arca",
+          "domains": ["ar.ca"],
+          "symbols": []
+        }
+      ],
+      "sentiment": {
+        "positive": 0.092688255,
+        "negative": 0.83341426,
+        "neutral": 0.07389752
+      },
+      "summary": "The latest April report on U.S. consumer confidence has shown a sharp decline in overall morale and a surge in inflation expectations among American consumers, according to data from the University of Michigan. This comes amid concerns that the inflation slowdown may have stalled. The consumer sentiment index dropped from 79.4 to 77.9 in April, missing expectations of 79.9, and the sub-index for current conditions dropped from 82.5 to 79.3, below the expected 82.2. Year-ahead inflation expectations rose from 2.9% to 3.1%, and long-term inflation expectations also rose. Stocks fell after the report, with the SPDR S&P 500 ETF Trust SPY down 0.8% and the tech-heavy Invesco QQQ Trust QQ QQq down 1.1%. Gold prices also rose, reaching record highs above $2,400 per ounce. Treasury yields also saw a decline as investors fled to safe havens.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "9565b3a91dc3442085659f54cf231c67",
+      "places": [],
+      "people": []
+    },
+    {
+      "url": "https://www.benzinga.com/markets/asia/24/04/38217725/gold-clocks-new-high-at-2-415-asia-markets-sans-japan-dip-europe-gains-global-markets-today-while-us",
+      "authorsByline": "Akanksha Bakshi",
+      "articleId": "ab25cf8c9d8a40c8a768af4bc8ad486b",
+      "clusterId": "c897f951898f41c1b9ae08947559244e",
+      "source": {
+        "domain": "benzinga.com",
+        "paywall": false,
+        "location": null
+      },
+      "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/04/12/Gold-Goldbars-Goldnuggets.jpeg?width=1200&height=800&fit=crop",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-04-12T11:03:24+00:00",
+      "addDate": "2024-04-12T11:10:03.929172+00:00",
+      "refreshDate": "2024-04-12T11:10:03.929175+00:00",
+      "score": 1,
+      "title": "Gold Clocks New High At $2,415, Asia Markets Sans Japan Dip, Europe Gains - Global Markets Today While US Slept - SmartETFs Asia Pacific Dividend Builder ETF (ARCA:ADIV)",
+      "description": "Gold Clocks New High At $2,415, Asia Markets Sans Japan Dip, Europe Gains - Global Markets Today While US",
+      "content": "On Thursday, April 11th, the U.S. stock markets ended mostly higher, led by tech momentum stocks amid signs of cooling inflation. The Nasdaq gained from interest-rate-sensitive tech giants, while the ... [2180 symbols]",
+      "medium": "Article",
+      "links": [],
+      "labels": [],
+      "matchedAuthors": [
+        { "id": "80e47b3c6b6f473da361e936ad67088b", "name": "Akanksha Bakshi" }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        { "name": "financial stocks", "weight": 0.08958482 },
+        { "name": "tech momentum stocks", "weight": 0.08558101 },
+        { "name": "stocks", "weight": 0.08069537 },
+        { "name": "cooling inflation", "weight": 0.0731632 },
+        { "name": "0.01%", "weight": 0.06979231 },
+        { "name": "0.05%", "weight": 0.06979231 },
+        { "name": "0.2%", "weight": 0.06979231 },
+        { "name": "0.23%", "weight": 0.06979231 },
+        { "name": "0.31%", "weight": 0.06979231 },
+        { "name": "0.33%", "weight": 0.06979231 }
+      ],
+      "topics": [{ "name": "Markets" }],
+      "categories": [{ "name": "Finance" }],
+      "entities": [
+        { "data": "Asia", "type": "LOC", "mentions": 1 },
+        { "data": "Europe", "type": "LOC", "mentions": 1 },
+        { "data": "Japan", "type": "GPE", "mentions": 2 },
+        { "data": "US", "type": "GPE", "mentions": 5 },
+        { "data": "India", "type": "GPE", "mentions": 1 },
+        { "data": "China", "type": "GPE", "mentions": 1 },
+        { "data": "Treasury", "type": "ORG", "mentions": 1 },
+        { "data": "06:45 AM ET", "type": "TIME", "mentions": 4 }
+      ],
+      "companies": [],
+      "sentiment": {
+        "positive": 0.14214782,
+        "negative": 0.7176688,
+        "neutral": 0.14018339
+      },
+      "summary": "The US stock markets ended mostly higher on April 11th, largely due to tech momentum stocks and signs of cooling inflation. The Nasdaq gained from interest-rate-sensitive tech giants, while the S&P 500 saw gains. The Dow remained nearly flat. According to the economic data, producer prices increased by 0.2% in March, below February’s 0.6% rise and expectations of 0.3%. Initial jobless claims dropped to 211,000 last week, beating estimates of 215,000. The higher-than-anticipated CPI data led to a significant drop in stocks, pushing Treasury yields to a peak not seen since November. Meanwhile, Japan's Nikkei 225 index ended the trading day higher by 0.,31% at 39,567.00, led by gains in the Gas & Water, Power, and Construction sectors.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "1ea6b6fb2e684c9bb4e74979dbaff130",
+      "places": [],
+      "people": []
+    }
+  ]
+}
